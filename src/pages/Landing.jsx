@@ -23,7 +23,7 @@ function Landing() {
       </Col>
 
       <Col style={{marginLeft:'110px'}} >
-<img src="/public/3d-rendering-woman-with-vr-glasses.png" style={{height:'560px'}}  alt="landing" className='img-fluid' />      
+<img src="../../public/3d-rendering-woman-with-vr-glasses.png" style={{height:'560px'}}  alt="landing" className='img-fluid' />      
       </Col>
     </Row>
    </div>
