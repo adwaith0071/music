@@ -23,7 +23,7 @@ function Landing() {
       </Col>
 
       <Col style={{marginLeft:'110px'}} >
-<img  src="https://png.pngtree.com/png-vector/20240818/ourmid/pngtree-neon-girl-with-headphones-listening-to-music-illustration-clipart-png-image_13534911.png" style={{height:'537px'}}  alt="landing" className='img-fluid ' />      
+<img  src="https://png.pngtree.com/png-vector/20240818/ourmid/pngtree-neon-girl-with-headphones-listening-to-music-illustration-clipart-png-image_13534911.png"  alt="landing" className='img-fluid ' />      
       </Col>
     </Row>
    </div>
