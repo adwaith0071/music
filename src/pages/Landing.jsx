@@ -23,7 +23,7 @@ function Landing() {
       </Col>
 
       <Col style={{marginLeft:'110px'}} >
-<img src="/images/media.png" style={{height:'560px'}}  alt="landing" className='img-fluid' />      
+<img src="https://img.freepik.com/free-photo/3d-music-related-scene_23-2151124459.jpg?t=st=1726830267~exp=1726833867~hmac=2ac94ff97ee5e5426d1f870448f9600ed40d255fa502def5874281d09d27d8f2&w=740" style={{height:'560px'}}  alt="landing" className='img-fluid' />      
       </Col>
     </Row>
    </div>
