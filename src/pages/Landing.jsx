@@ -11,7 +11,7 @@ function Landing() {
    <>
    <div className='container-fluid p-5 mt-2'>
     <Row>
-      <Col className='d-flex flex-column justify-content-center '>
+      <Col className='d-flex flex-column container justify-content-center '>
       <h1 style={{color:'black'}}>MediaPlayer</h1>
       <p className='mt-1' style={{textAlign:'justify',fontSize:'20px',color:'black'}}>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis voluptate beatae deleniti enim! Mollitia obcaecati accusamus eum minus saepe earum,
          consequatur inventore praesentium cum quod dolores nobis tenetur asperiores? Vel.</p>
@@ -23,7 +23,7 @@ function Landing() {
       </Col>
 
       <Col style={{marginLeft:'110px'}} >
-<img src="https://img.freepik.com/free-photo/3d-music-related-scene_23-2151124459.jpg?t=st=1726830267~exp=1726833867~hmac=2ac94ff97ee5e5426d1f870448f9600ed40d255fa502def5874281d09d27d8f2&w=740" style={{height:'560px'}}  alt="landing" className='img-fluid' />      
+<img  src="https://png.pngtree.com/png-vector/20240818/ourmid/pngtree-neon-girl-with-headphones-listening-to-music-illustration-clipart-png-image_13534911.png" style={{height:'537px'}}  alt="landing" className='img-fluid ' />      
       </Col>
     </Row>
    </div>
@@ -45,7 +45,7 @@ function Landing() {
     </Card>
 
     <Card style={{ width: '18rem' }} className='p-0'>
-      <Card.Img variant="top" src="https://cdn.dribbble.com/users/759392/screenshots/9201914/media/6432c05968a1592b64b8feaccc2a7280.gif" />
+      <Card.Img variant="top " src="https://cdn.dribbble.com/users/759392/screenshots/9201914/media/6432c05968a1592b64b8feaccc2a7280.gif" />
       <Card.Body>
         <Card.Title className='text-center'>Watch Videos</Card.Title>
         <Card.Text style={{textAlign:'justify', color:'black'}}>
